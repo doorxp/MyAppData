@@ -11,13 +11,13 @@
 			"icon": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3715318707,885945691&fm=27&gp=0.jpg",
 			"detail1": ["日本のビットコイン取引量を誇る国内最大規日本のビットコイン取引量を誇る国内最大規", "日本のビットコイン取引量を誇る国内最大規日本のビットコイン取引量を誇る国内最大規日本のビットコイン取引量を誇る国内最大規"],
 			"procedure": [{
-				"title": "title",
-				"message": "message",
-				"image": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3715318707,885945691&fm=27&gp=0.jpg"
+				"title": "ステップ１",
+				"message": "ホームページにアクセスして メールアドレスを入力",
+				"image": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/step_pic_01.png"
 			}, {
-				"title": "title",
-				"message": "message",
-				"image": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3715318707,885945691&fm=27&gp=0.jpg"
+				"title": "ステップ１",
+				"message": "ホームページにアクセスして メールアドレスを入力",
+				"image": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/step_pic_01.png"
 			}],
 			"url": "http://doorxp.com/",
 			"color": [255, 0, 0],
@@ -32,13 +32,13 @@
 			"icon": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3715318707,885945691&fm=27&gp=0.jpg",
 			"detail1": ["日本のビットコイン取引量を誇る国内最大規日本のビットコイン取引量を誇る国内最大規", "日本のビットコイン取引量を誇る国内最大規日本のビットコイン取引量を誇る国内最大規日本のビットコイン取引量を誇る国内最大規"],
 			"procedure": [{
-				"title": "title",
-				"message": "message",
-				"image": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3715318707,885945691&fm=27&gp=0.jpg"
+				"title": "ステップ１",
+				"message": "ホームページにアクセスして メールアドレスを入力",
+				"image": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/step_pic_01.png"
 			}, {
-				"title": "title",
-				"message": "message",
-				"image": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3715318707,885945691&fm=27&gp=0.jpg"
+				"title": "ステップ１",
+				"message": "ホームページにアクセスして メールアドレスを入力",
+				"image": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/step_pic_01.png"
 			}],
 			"url": "http://doorxp.com/",
 			"color": [255, 255, 0],
