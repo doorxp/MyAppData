@@ -1,7 +1,10 @@
 {
 	"top": {
 		"url": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/compare_banner.png",
-		"value": 50
+		"value": 50,
+		"image":"https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/compare_banner.png",
+		"x":"50%",
+		"y":"50%"
 	},
 	"list": [{
 			"title0": "Coin Check",
