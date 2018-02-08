@@ -3,8 +3,7 @@
 		"url": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/compare_banner.png",
 		"value": 50,
 		"x":"90%",
-		"y":"120%",
-		"r":30
+		"y":"120%"
 	},
 	"list": [{
 			"title0": "Coin Check",
