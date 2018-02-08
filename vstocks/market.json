@@ -2,9 +2,9 @@
 	"top": {
 		"url": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/compare_banner.png",
 		"value": 50,
-		"image":"https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/compare_banner.png",
 		"x":"50%",
-		"y":"50%"
+		"y":"50%",
+		"r":"30"
 	},
 	"list": [{
 			"title0": "Coin Check",
@@ -12,18 +12,30 @@
 			"rate": 0.5,
 			"title2": "Coin Checkのここがオススメ",
 			"icon": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3715318707,885945691&fm=27&gp=0.jpg",
-			"detail1": ["日本のビットコイン取引量を誇る国内最大規日本のビットコイン取引量を誇る国内最大規", "日本のビットコイン取引量を誇る国内最大規日本のビットコイン取引量を誇る国内最大規日本のビットコイン取引量を誇る国内最大規"],
+			"detail1": ["日本のビットコイン取引量を誇る国内最大規模の仮想通貨取引所", "チャットや取引画面が見やすくて初心者にもオススメ"],
 			"procedure": [{
 				"title": "ステップ１",
-				"message": "ホームページにアクセスして メールアドレスを入力",
-				"image": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/step_pic_01.png"
+				"message": "ホームページにアクセスして\nメールアドレスを入力",
+				"image": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/1.png"
 			}, {
-				"title": "ステップ１",
-				"message": "ホームページにアクセスして メールアドレスを入力",
-				"image": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/step_pic_01.png"
+				"title": "ステップ２",
+				"message": "仮想通貨の購入できるトレードクラスに\nなる為に本人情報を提出しましよう",
+				"image": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/2.png"
+			},{
+				"title": "ステップ３",
+				"message": "本人確認書類の登録を済ませましょう\n（免許証が一番簡単です）",
+				"image": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/3.png"
+			},{
+				"title": "ステップ４",
+				"message": "最後に取引目的の設定と電話番号を\n登録すれば完了です",
+				"image": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/4.png"
+			},{
+				"title": "ステップ５",
+				"message": "書留郵便を受け取ると、トレードクラスに\n変わり通貨の購入が可能になります",
+				"image": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/5.png"
 			}],
 			"url": "http://doorxp.com/",
-			"color": [255, 0, 0],
+			"color": [255, 139, 39],
 			"title3": "取引手数料（現物取引）",
 			"detail2": "無料"
 		},
@@ -33,18 +45,30 @@
 			"rate": 0.5,
 			"title2": "Coin Checkのここがオススメ",
 			"icon": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3715318707,885945691&fm=27&gp=0.jpg",
-			"detail1": ["日本のビットコイン取引量を誇る国内最大規日本のビットコイン取引量を誇る国内最大規", "日本のビットコイン取引量を誇る国内最大規日本のビットコイン取引量を誇る国内最大規日本のビットコイン取引量を誇る国内最大規"],
+			"detail1": ["日本のビットコイン取引量を誇る国内最大規模の仮想通貨取引所", "チャットや取引画面が見やすくて初心者にもオススメ"],
 			"procedure": [{
 				"title": "ステップ１",
-				"message": "ホームページにアクセスして メールアドレスを入力",
-				"image": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/step_pic_01.png"
+				"message": "ホームページにアクセスして\nメールアドレスを入力",
+				"image": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/1.png"
 			}, {
-				"title": "ステップ１",
-				"message": "ホームページにアクセスして メールアドレスを入力",
-				"image": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/step_pic_01.png"
+				"title": "ステップ２",
+				"message": "仮想通貨の購入できるトレードクラスに\nなる為に本人情報を提出しましよう",
+				"image": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/2.png"
+			},{
+				"title": "ステップ３",
+				"message": "本人確認書類の登録を済ませましょう\n（免許証が一番簡単です）",
+				"image": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/3.png"
+			},{
+				"title": "ステップ４",
+				"message": "最後に取引目的の設定と電話番号を\n登録すれば完了です",
+				"image": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/4.png"
+			},{
+				"title": "ステップ５",
+				"message": "書留郵便を受け取ると、トレードクラスに\n変わり通貨の購入が可能になります",
+				"image": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/5.png"
 			}],
 			"url": "http://doorxp.com/",
-			"color": [255, 255, 0],
+			"color": [128, 181, 37],
 			"title3": "取引手数料（現物取引）",
 			"detail2": "2手数"
 		}
