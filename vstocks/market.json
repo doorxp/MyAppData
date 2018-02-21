@@ -8,7 +8,7 @@
 			"title1": "DMM Bitcoin",
 			"rate": 1.0,
 			"title2": "Coin Checkのここがオススメ",
-			"icon": "//raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/0.png",
+			"icon": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/0.png",
 			"detail1": ["日本のビットコイン取引量を誇る国内最大規模の仮想通貨取引所", "チャットや取引画面が見やすくて初心者にもオススメ"],
 			"procedure": [{
 				"title": "ステップ１",
