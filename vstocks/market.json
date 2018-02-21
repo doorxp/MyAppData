@@ -8,32 +8,32 @@
 			"title1": "DMM Bitcoin",
 			"rate": 1.0,
 			"title2": "Coin Checkのここがオススメ",
-			"icon": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/0.png",
+			"icon": "0.png",
 			"detail1": ["日本のビットコイン取引量を誇る国内最大規模の仮想通貨取引所", "チャットや取引画面が見やすくて初心者にもオススメ"],
 			"procedure": [{
 				"title": "ステップ１",
 				"message": "口座開設をクリックして\nメールアドレス登録してください",
-				"image": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/1.png"
+				"image": "1.png"
 			}, {
 				"title": "ステップ２",
 				"message": "パスワードを設定して\n仮登録を完了させてください",
-				"image": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/2.jpg"
+				"image": "2.jpg"
 			},{
 				"title": "ステップ３",
 				"message": "口座を開設する為に記入の指示がある\n部分を全て記入してください",
-				"image": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/3.jpg"
+				"image": "3.jpg"
 			},{
 				"title": "ステップ４",
 				"message": "本人確認書類の審査には１営業日程度\n（確認書類を受け取ると審査終了です）",
-				"image": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/4.jpg"
+				"image": "4.jpg"
 			},{
 				"title": "ステップ５",
 				"message": "最後に電話番号での認証をすませたら\n手続きはこれで終了です",
-				"image": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/5.jpg"
+				"image": "5.jpg"
 			},{
 				"title": "ステップ６",
 				"message": "アップロードされた全ての内容の確認が完了\nすれば確認コートが記された郵便物が届きます",
-				"image": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/6.png"
+				"image": "6.png"
 			}],
 			"url": "http://doorxp.com/",
 			"color": [255, 139, 39],
@@ -50,23 +50,23 @@
 			"procedure": [{
 				"title": "ステップ１",
 				"message": "ホームページにアクセスして\nメールアドレスを入力",
-				"image": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/1.png"
+				"image": "1.png"
 			}, {
 				"title": "ステップ２",
 				"message": "仮想通貨の購入できるトレードクラスに\nなる為に本人情報を提出しましよう",
-				"image": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/2.png"
+				"image": "2.png"
 			},{
 				"title": "ステップ３",
 				"message": "本人確認書類の登録を済ませましょう\n（免許証が一番簡単です）",
-				"image": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/3.png"
+				"image": "3.png"
 			},{
 				"title": "ステップ４",
 				"message": "最後に取引目的の設定と電話番号を\n登録すれば完了です",
-				"image": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/4.png"
+				"image": "4.png"
 			},{
 				"title": "ステップ５",
 				"message": "書留郵便を受け取ると、トレードクラスに\n変わり通貨の購入が可能になります",
-				"image": "https://raw.githubusercontent.com/doorxp/MyAppData/master/vstocks/5.png"
+				"image": "5.png"
 			}],
 			"url": "http://doorxp.com/",
 			"color": [128, 181, 37],
