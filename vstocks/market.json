@@ -5,8 +5,8 @@
 	},
 	"list": [{
 			"title0": "DMM Bitcoin",
-			"title1": "DMM Bitcoin",
-			"rate": 1.0,
+			"title1": "",
+			"rate": 0.9,
 			"title2": "Coin Checkのここがオススメ",
 			"icon": "0.png",
 			"key":"DMMBitcoin",
@@ -43,4 +43,102 @@
 			"detail2": "無料"
 		}
 	]
+},{
+	"top": {
+		"url": "asset://compare_banner",
+		"value": 5
+	},
+	"list": [{
+			"title0": "GMOコイン",
+			"title1": "",
+			"rate": 0.8,
+			"title2": "Coin Checkのここがオススメ",
+			"icon": "http_GMO",
+			"key":"GMOcoin",
+			"detailurl":"gmo_b_pic.png",
+			"detail1": ["日本のビットコイン取引量を誇る国内最大規模の仮想通貨取引所", "チャットや取引画面が見やすくて初心者にもオススメ"],
+			"procedure": [{
+				"title": "ステップ１",
+				"message": "無料口座開設をクリックして\n登録を進めてください",
+				"image": "GMO_01.png"
+			}, {
+				"title": "ステップ２",
+				"message": "メールアドレスや個人情報の登録など\n空白部分はすべて入力してください",
+				"image": "GMO_02.png"
+			},{
+				"title": "ステップ３",
+				"message": "セキュリティー確保の為、パスワード強度は\n【強】になるように設定してください",
+				"image": "GMO_03.png"
+			},{
+				"title": "ステップ４",
+				"message": "口座を開設する為に、個人情報の入力を\nしてください",
+				"image": "GMO_04.png"
+			},{
+				"title": "ステップ５",
+				"message": "個人情報の入力を終えたら、本人確認書類の\n提出してください",
+				"image": "GMO_05.png"
+			},{
+				"title": "ステップ６",
+				"message": "本人確認手続きを終えると【口座開設コード】\nがお知らせされます",
+				"image": "GMO_06.png"
+			}],
+			"url": "http://doorxp.com/",
+			"color": [128, 181, 37],
+			"title3": "取引手数料（現物取引）",
+			"detail2": "無料"
+		}
+	]
+},{
+	"top": {
+		"url": "asset://compare_banner",
+		"value": 5
+	},
+	"list": [{
+			"title0": "QUOINEX",
+			"title1": "QUOINEX",
+			"rate": 0.092,
+			"title2": "Coin Checkのここがオススメ",
+			"icon": "http_QUOINEX",
+			"key":"QUOINEX",
+			"detailurl":"quoinex_b_pic.png",
+			"detail1": ["日本のビットコイン取引量を誇る国内最大規模の仮想通貨取引所", "チャットや取引画面が見やすくて初心者にもオススメ"],
+			"procedure": [{
+				"title": "ステップ１",
+				"message": "口座開設をクリックして\n登録を進めてください",
+				"image": "QUOINEX_01.png"
+			}, {
+				"title": "ステップ２",
+				"message": "メールアドレスや個人情報の登録など\n空白部分はすべて入力してください",
+				"image": "QUOINEX_02.png"
+			},{
+				"title": "ステップ３",
+				"message": "引き続きすべての空白部分の入力を\n進めてください,
+				"image": "QUOINEX_03.png"
+			},{
+				"title": "ステップ４",
+				"message": "確認メールより【登録を確認をクリックし】\nQUOINEXにログインしてください",
+				"image": "QUOINEX_04.png"
+			},{
+				"title": "ステップ５",
+				"message": "右上のメニューから設定の口座状況より\n身分証明書類の提出をしてください",
+				"image": "QUOINEX_05.png"
+			},{
+				"title": "ステップ６",
+				"message": "提出書類の審査を終えると実際に仮想通貨の\n売買が行えるようになります",
+				"image": "QUOINEX_06.png"
+			}],
+			"url": "http://doorxp.com/",
+			"color": [232, 79, 79],
+			"title3": "取引手数料（現物取引）",
+			"detail2": "無料"
+		}
+	]
 }
+
+"http_GMO":<a href="https://px.a8.net/svt/ejp?a8mat=2ZAGZD+9JJ5LM+3VI8+65U41" target="_blank" rel="nofollow">
+<img border="0" width="120" height="120" alt="" src="https://www27.a8.net/svt/bgt?aid=180207481577&wid=002&eno=01&mid=s00000018080001035000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=2ZAGZD+9JJ5LM+3VI8+65U41" alt="">
+
+"http_QUOINEX":<a href="https://px.a8.net/svt/ejp?a8mat=2ZAGZD+9JJ5LM+3VI8+5ZEMP" target="_blank" rel="nofollow">
+<img border="0" width="100" height="60" alt="" src="https://www20.a8.net/svt/bgt?aid=180207481577&wid=002&eno=01&mid=s00000018080001005000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=2ZAGZD+9JJ5LM+3VI8+5ZEMP" alt="">
