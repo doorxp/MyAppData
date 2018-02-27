@@ -41,14 +41,8 @@
 			"color": [255, 139, 39],
 			"title3": "取引手数料（現物取引）",
 			"detail2": "無料"
-		}
-	]
-},{
-	"top": {
-		"url": "asset://compare_banner",
-		"value": 5
-	},
-	"list": [{
+		},
+        {
 			"title0": "GMOコイン",
 			"title1": "",
 			"rate": 0.8,
@@ -86,14 +80,8 @@
 			"color": [128, 181, 37],
 			"title3": "取引手数料（現物取引）",
 			"detail2": "無料"
-		}
-	]
-},{
-	"top": {
-		"url": "asset://compare_banner",
-		"value": 5
-	},
-	"list": [{
+		},
+        {
 			"title0": "QUOINEX",
 			"title1": "QUOINEX",
 			"rate": 0.092,
@@ -112,8 +100,8 @@
 				"image": "QUOINEX_02.png"
 			},{
 				"title": "ステップ３",
-				"message": "引き続きすべての空白部分の入力を\n進めてください,
-				"image": "QUOINEX_03.png"
+				"message": "引き続きすべての空白部分の入力を\n進めてください",
+				"image":"QUOINEX_03.png"
 			},{
 				"title": "ステップ４",
 				"message": "確認メールより【登録を確認をクリックし】\nQUOINEXにログインしてください",
@@ -134,11 +122,3 @@
 		}
 	]
 }
-
-"http_GMO":<a href="https://px.a8.net/svt/ejp?a8mat=2ZAGZD+9JJ5LM+3VI8+65U41" target="_blank" rel="nofollow">
-<img border="0" width="120" height="120" alt="" src="https://www27.a8.net/svt/bgt?aid=180207481577&wid=002&eno=01&mid=s00000018080001035000&mc=1"></a>
-<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=2ZAGZD+9JJ5LM+3VI8+65U41" alt="">
-
-"http_QUOINEX":<a href="https://px.a8.net/svt/ejp?a8mat=2ZAGZD+9JJ5LM+3VI8+5ZEMP" target="_blank" rel="nofollow">
-<img border="0" width="100" height="60" alt="" src="https://www20.a8.net/svt/bgt?aid=180207481577&wid=002&eno=01&mid=s00000018080001005000&mc=1"></a>
-<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=2ZAGZD+9JJ5LM+3VI8+5ZEMP" alt="">
