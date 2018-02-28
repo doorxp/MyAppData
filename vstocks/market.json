@@ -6,9 +6,9 @@
 	"list": [{
 			"title0": "GMOコイン",
 			"title1": "",
-			"rate": 0.8,
+			"rate": 0.9,
 			"title2": "Coin Checkのここがオススメ",
-			"icon": "http_GMO",
+			"icon": "GMO",
 			"key":"GMOcoin",
 			"detailurl":"gmo_b_pic.png",
 			"detail1": ["日本のビットコイン取引量を誇る国内最大規模の仮想通貨取引所", "チャットや取引画面が見やすくて初心者にもオススメ"],
