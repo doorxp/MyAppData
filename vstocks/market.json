@@ -47,7 +47,7 @@
 			"title1": "",
 			"rate": 0.8,
 			"title2": "Coin Checkのここがオススメ",
-			"icon": "GMO.html",
+			"icon": "http_GMO",
 			"key":"GMOcoin",
 			"detailurl":"gmo_b_pic.png",
 			"detail1": ["日本のビットコイン取引量を誇る国内最大規模の仮想通貨取引所", "チャットや取引画面が見やすくて初心者にもオススメ"],
@@ -83,10 +83,10 @@
 		},
         {
 			"title0": "QUOINEX",
-			"title1": "",
-			"rate": 0.7,
+			"title1": "QUOINEX",
+			"rate": 0.092,
 			"title2": "Coin Checkのここがオススメ",
-			"icon": "QUOINEX.html",
+			"icon": "http_QUOINEX",
 			"key":"QUOINEX",
 			"detailurl":"quoinex_b_pic.png",
 			"detail1": ["日本のビットコイン取引量を誇る国内最大規模の仮想通貨取引所", "チャットや取引画面が見やすくて初心者にもオススメ"],
@@ -101,7 +101,7 @@
 			},{
 				"title": "ステップ３",
 				"message": "引き続きすべての空白部分の入力を\n進めてください",
-				"image":"QUOINEX_03.png"
+				"image": "QUOINEX_03.png"
 			},{
 				"title": "ステップ４",
 				"message": "確認メールより【登録を確認をクリックし】\nQUOINEXにログインしてください",
