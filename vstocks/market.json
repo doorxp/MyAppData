@@ -3,45 +3,7 @@
 		"url": "asset://compare_banner",
 		"value": 5
 	},
-	"list": [{
-			"title0": "DMM Bitcoin",
-			"title1": "",
-			"rate": 0.9,
-			"title2": "Coin Checkのここがオススメ",
-			"icon": "0.png",
-			"key":"DMMBitcoin",
-			"detailurl":"dmm_b_pic.png",
-			"detail1": ["日本のビットコイン取引量を誇る国内最大規模の仮想通貨取引所", "チャットや取引画面が見やすくて初心者にもオススメ"],
-			"procedure": [{
-				"title": "ステップ１",
-				"message": "口座開設をクリックして\nメールアドレス登録してください",
-				"image": "DMM_01.png"
-			}, {
-				"title": "ステップ２",
-				"message": "パスワードを設定して\n仮登録を完了させてください",
-				"image": "DMM_02.png"
-			},{
-				"title": "ステップ３",
-				"message": "口座を開設する為に記入の指示がある部分を全て記入してください",
-				"image": "DMM_03.png"
-			},{
-				"title": "ステップ４",
-				"message": "本人確認書類の審査には１営業日程度（確認書類を受け取ると審査終了です）",
-				"image": "DMM_04.png"
-			},{
-				"title": "ステップ５",
-				"message": "最後に電話番号での認証をすませたら手続きはこれで終了です",
-				"image": "DMM_05.png"
-			},{
-				"title": "ステップ６",
-				"message": "アップロードされた全ての内容の確認が完了すれば確認コートが記された郵便物が届きます",
-				"image": "DMM_06.png"
-			}],
-			"url": "http://doorxp.com/",
-			"color": [255, 139, 39],
-			"title3": "取引手数料（現物取引）",
-			"detail2": "無料"
-		},
+	"list": [
         {
 			"title0": "GMOコイン",
 			"title1": "",
@@ -78,45 +40,6 @@
 			}],
 			"url": "http://doorxp.com/",
 			"color": [128, 181, 37],
-			"title3": "取引手数料（現物取引）",
-			"detail2": "無料"
-		},
-        {
-			"title0": "QUOINEX",
-			"title1": "QUOINEX",
-			"rate": 0.092,
-			"title2": "Coin Checkのここがオススメ",
-			"icon": "http_QUOINEX",
-			"key":"QUOINEX",
-			"detailurl":"quoinex_b_pic.png",
-			"detail1": ["日本のビットコイン取引量を誇る国内最大規模の仮想通貨取引所", "チャットや取引画面が見やすくて初心者にもオススメ"],
-			"procedure": [{
-				"title": "ステップ１",
-				"message": "口座開設をクリックして\n登録を進めてください",
-				"image": "QUOINEX_01.png"
-			}, {
-				"title": "ステップ２",
-				"message": "メールアドレスや個人情報の登録など\n空白部分はすべて入力してください",
-				"image": "QUOINEX_02.png"
-			},{
-				"title": "ステップ３",
-				"message": "引き続きすべての空白部分の入力を\n進めてください",
-				"image": "QUOINEX_03.png"
-			},{
-				"title": "ステップ４",
-				"message": "確認メールより【登録を確認をクリックし】\nQUOINEXにログインしてください",
-				"image": "QUOINEX_04.png"
-			},{
-				"title": "ステップ５",
-				"message": "右上のメニューから設定の口座状況より\n身分証明書類の提出をしてください",
-				"image": "QUOINEX_05.png"
-			},{
-				"title": "ステップ６",
-				"message": "提出書類の審査を終えると実際に仮想通貨の\n売買が行えるようになります",
-				"image": "QUOINEX_06.png"
-			}],
-			"url": "http://doorxp.com/",
-			"color": [232, 79, 79],
 			"title3": "取引手数料（現物取引）",
 			"detail2": "無料"
 		}
