@@ -3,8 +3,7 @@
 		"url": "asset://compare_banner",
 		"value": 5
 	},
-	"list": [
-        {
+	"list": [{
 			"title0": "GMOコイン",
 			"title1": "",
 			"rate": 0.8,
