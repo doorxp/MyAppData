@@ -1,0 +1,114 @@
+{
+	"ranks": [
+		{
+			"file": "rank_1.json",
+			"title": "ポップス",
+			"search_words": "PLDcnymzs18LWrKzHmzrGH1JzLBqrHi3xQ",
+			"search_query": false
+		},
+		{
+			"file": "rank_2.json",
+			"title": "ヒップホップ",
+			"search_words": "PLH6pfBXQXHEC2uDmDy5oi3tHW6X8kZ2Jo",
+			"search_query": false
+		},
+		{
+			"file": "rank_3.json",
+			"title": "オルタナティブ·ロック",
+			"search_words": "PL47oRh0-pTouthHPv6AbALWPvPJHlKiF7",
+			"search_query": false
+		},
+		{
+			"file": "rank_4.json",
+			"title": "ヘビーメタル",
+			"search_words": "PLfY-m4YMsF-OM1zG80pMguej_Ufm8t0VC",
+			"search_query": false
+		},
+		{
+			"file": "rank_5.json",
+			"title": "ロック",
+			"search_words": "PLhd1HyMTk3f5PzRjJzmzH7kkxjfdVoPPj",
+			"search_query": false
+		},
+		{
+			"file": "rank_6.json",
+			"title": "K ポップ",
+			"search_words": "PLTDluH66q5mpm-Bsq3GlwjMOHITt2bwXE",
+			"search_query": false
+		},
+		{
+			"file": "rank_7.json",
+			"title": "電子音楽",
+			"search_words": "PLFPg_IUxqnZNnACUGsfn50DySIOVSkiKI",
+			"search_query": false
+		},
+		{
+			"file": "rank_8.json",
+			"title": "レゲエ",
+			"search_words": "PLYAYp5OI4lRLf_oZapf5T5RUZeUcF9eRO",
+			"search_query": false
+		},
+		{
+			"file": "rank_9.json",
+			"title": "ハウス ミュージック",
+			"search_words": "PLhInz4M-OzRUsuBj8wF6383E7zm2dJfqZ",
+			"search_query": false
+		},
+		{
+			"file": "rank_10.json",
+			"title": "ジャズ",
+			"search_words": "PLMcThd22goGYit-NKu2O8b4YMtwSTK9b9",
+			"search_query": false
+		},
+		{
+			"file": "rank_11.json",
+			"title": "EDM",
+			"search_words": "PLUg_BxrbJNY5gHrKsCsyon6vgJhxs72AH",
+			"search_query": false
+		},
+		{
+			"file": "rank_12.json",
+			"title": "クラシック",
+			"search_words": "PLVXq77mXV53-Np39jM456si2PeTrEm9Mj",
+			"search_query": false
+		},
+		{
+			"file": "rank_13.json",
+			"title": "ポップロック",
+			"search_words": "PLr8RdoI29cXIlkmTAQDgOuwBhDh3yJDBQ",
+			"search_query": false
+		},
+		{
+			"file": "rank_14.json",
+			"title": "ラテンアメリカ音楽",
+			"search_words": "PLcfQmtiAG0X-fmM85dPlql5wfYbmFumzQ",
+			"search_query": false
+		},
+		{
+			"file": "rank_15.json",
+			"title": "ソウル ミュージック",
+			"search_words": "PLQog_FHUHAFUDDQPOTeAWSHwzFV1Zz5PZ",
+			"search_query": false
+		},
+		{
+			"file": "rank_16.json",
+			"title": "J ポップ",
+			"search_words": "PLkXJ6qy8Cwfj7kD4p03Ca89_CS_46YEBR",
+			"search_query": false
+		},
+		{
+			"file": "rank_17.json",
+			"title": "VOCALOID",
+			"search_words": "PL6ahIEq1lB3BAksh6L8v0SVMOAcsjwQhq",
+			"search_query": false
+		},
+		{
+			"file": "rank_18.json",
+			"title": "R&B",
+			"search_words": "PLWNXn_iQ2yrKzFcUarHPdC4c_LPm-kjQy",
+			"search_query": false
+		}
+	
+	],
+	"modified": "2017-10-16 02:30:51 UTC"
+}
