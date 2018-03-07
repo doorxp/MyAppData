@@ -2,7 +2,7 @@
  {
  "title": "ポップス",
  "params": {
- "list": "PLDcnymzs18LWuweNLxL4syvUtPx7Jz12y"
+ "playlistId": "PLDcnymzs18LWuweNLxL4syvUtPx7Jz12y"
  },
  "url": "https://www.youtube.com/playlist",
  "active": true
@@ -10,98 +10,98 @@
  {
  "title": "ヒップホップ",
  "params": {
- "list": "PLH6pfBXQXHEAOZJoXj1ATmPluDE2Zow0t"
+ "playlistId": "PLH6pfBXQXHEAOZJoXj1ATmPluDE2Zow0t"
  },
  "url": "https://www.youtube.com/playlist"
  },
  {
  "title": "オルタナティブ·ロック",
  "params": {
- "list": "PL47oRh0-pTouthHPv6AbALWPvPJHlKiF7"
+ "playlistId": "PL47oRh0-pTouthHPv6AbALWPvPJHlKiF7"
  },
  "url": "https://www.youtube.com/playlist"
  },
  {
  "title": "ヘビーメタル",
  "params": {
- "list": "PLfY-m4YMsF-NiDvD_lA8-2VjEqDT9pbuO"
+ "playlistId": "PLfY-m4YMsF-NiDvD_lA8-2VjEqDT9pbuO"
  },
  "url": "https://www.youtube.com/playlist"
  },
  {
  "title": "ロック",
  "params": {
- "list": "PLhd1HyMTk3f7QyETZvnIJmrysTJ7GueuY"
+ "playlistId": "PLhd1HyMTk3f7QyETZvnIJmrysTJ7GueuY"
  },
  "url": "https://www.youtube.com/playlist"
  },
  {
  "title": "K ポップ",
  "params": {
- "list": "PLTDluH66q5mpm-Bsq3GlwjMOHITt2bwXE"
+ "playlistId": "PLTDluH66q5mpm-Bsq3GlwjMOHITt2bwXE"
  },
  "url": "https://www.youtube.com/playlist"
  },
  {
  "title": "電子音楽",
  "params": {
- "list": "PLFPg_IUxqnZNbgDZ2QFBp3Z5GL-h-lxk8"
+ "playlistId": "PLFPg_IUxqnZNbgDZ2QFBp3Z5GL-h-lxk8"
  },
  "url": "https://www.youtube.com/playlist"
  },
  {
  "title": "レゲエ",
  "params": {
- "list": "PLYAYp5OI4lRIeUUrKnP7v9yjLtSMv4iRc"
+ "playlistId": "PLYAYp5OI4lRIeUUrKnP7v9yjLtSMv4iRc"
  },
  "url": "https://www.youtube.com/playlist"
  },
  {
  "title": "ハウス ミュージック",
  "params": {
- "list": "PLhInz4M-OzRUsuBj8wF6383E7zm2dJfqZ"
+ "playlistId": "PLhInz4M-OzRUsuBj8wF6383E7zm2dJfqZ"
  },
  "url": "https://www.youtube.com/playlist"
  },
  {
  "title": "ラテンアメリカ音楽",
  "params": {
- "list": "PLcfQmtiAG0X_3a1RP-bcjWImDwdYaOW4b"
+ "playlistId": "PLcfQmtiAG0X_3a1RP-bcjWImDwdYaOW4b"
  },
  "url": "https://www.youtube.com/playlist"
  },
  {
  "title": "ジャズ",
  "params": {
- "list": "PLMcThd22goGYit-NKu2O8b4YMtwSTK9b9"
+ "playlistId": "PLMcThd22goGYit-NKu2O8b4YMtwSTK9b9"
  },
  "url": "https://www.youtube.com/playlist"
  },
  {
  "title": "EDM",
  "params": {
- "list": "PLUg_BxrbJNY5gHrKsCsyon6vgJhxs72AH"
+ "playlistId": "PLUg_BxrbJNY5gHrKsCsyon6vgJhxs72AH"
  },
  "url": "https://www.youtube.com/playlist"
  },
  {
  "title": "クラシック",
  "params": {
- "list": "PLVXq77mXV53_lNck4gPkbBbwEv0CL6hCN"
+ "playlistId": "PLVXq77mXV53_lNck4gPkbBbwEv0CL6hCN"
  },
  "url": "https://www.youtube.com/playlist"
  },
  {
  "title": "ソウル ミュージック",
  "params": {
- "list": "PLQog_FHUHAFW0mG_Jy4hIIZGx-tc7SwLq"
+ "playlistId": "PLQog_FHUHAFW0mG_Jy4hIIZGx-tc7SwLq"
  },
  "url": "https://www.youtube.com/playlist"
  },
  {
  "title": "ポップロック",
  "params": {
- "list": "PLr8RdoI29cXIlkmTAQDgOuwBhDh3yJDBQ"
+ "playlistId": "PLr8RdoI29cXIlkmTAQDgOuwBhDh3yJDBQ"
  },
  "url": "https://www.youtube.com/playlist"
  },
@@ -112,98 +112,98 @@
  {
  "title": "Rhythm & Blues",
  "params": {
- "list": "PLWNXn_iQ2yrINTxUxfcqnKv6Ios5XByKj"
+ "playlistId": "PLWNXn_iQ2yrINTxUxfcqnKv6Ios5XByKj"
  },
  "url": "https://www.youtube.com/playlist"
  },
  {
  "title": "VOCALOID",
  "params": {
- "list": "PL6ahIEq1lB3Bx7usaB8pxnpsRQtccJ72I"
+ "playlistId": "PL6ahIEq1lB3Bx7usaB8pxnpsRQtccJ72I"
  },
  "url": "https://www.youtube.com/playlist"
  },
  {
  "title": "アジア音楽",
  "params": {
- "list": "PL0zQrw6ZA60ZgzlsoU49Z6EFJcgnd-RBr"
+ "playlistId": "PL0zQrw6ZA60ZgzlsoU49Z6EFJcgnd-RBr"
  },
  "url": "https://www.youtube.com/playlist"
  },
  {
  "title": "パンクロック",
  "params": {
- "list": "PLo2ccPasj2cAddh0gfbUSk7rtueH3lwTh"
+ "playlistId": "PLo2ccPasj2cAddh0gfbUSk7rtueH3lwTh"
  },
  "url": "https://www.youtube.com/playlist"
  },
  {
  "title": "ビートボックス",
  "params": {
- "list": "PL_qEPbEHLqTxOlSKKqVBpAMm4qBhTFlNP"
+ "playlistId": "PL_qEPbEHLqTxOlSKKqVBpAMm4qBhTFlNP"
  },
  "url": "https://www.youtube.com/playlist"
  },
  {
  "title": "ブラジル音楽",
  "params": {
- "list": "PLgcQjnkWAAgpVyfFiIA-qqONottCW54XT"
+ "playlistId": "PLgcQjnkWAAgpVyfFiIA-qqONottCW54XT"
  },
  "url": "https://www.youtube.com/playlist"
  },
  {
  "title": "バックグラウンドミュージック",
  "params": {
- "list": "PL5wbfLPOiuuAbPuRoTrebGpH29GuZdf2k"
+ "playlistId": "PL5wbfLPOiuuAbPuRoTrebGpH29GuZdf2k"
  },
  "url": "https://www.youtube.com/playlist"
  },
  {
  "title": "邦楽",
  "params": {
- "list": "PLqkyd_ga3k_pkjbYP8pkmoMZn_FcC4M4l"
+ "playlistId": "PLqkyd_ga3k_pkjbYP8pkmoMZn_FcC4M4l"
  },
  "url": "https://www.youtube.com/playlist"
  },
  {
  "title": "ボーカル音楽",
  "params": {
- "list": "PLo5cIhJ0-8jnePwRdbhpt_C22LOU2C1ob"
+ "playlistId": "PLo5cIhJ0-8jnePwRdbhpt_C22LOU2C1ob"
  },
  "url": "https://www.youtube.com/playlist"
  },
  {
  "title": "ボサノバ",
  "params": {
- "list": "PLsuXlLhD0_GW3AkiX--pMIv4UArUE96dA"
+ "playlistId": "PLsuXlLhD0_GW3AkiX--pMIv4UArUE96dA"
  },
  "url": "https://www.youtube.com/playlist"
  },
  {
  "title": "瞑想音楽",
  "params": {
- "list": "PLZqSA5D378sG3Ne13meXBBMf-Oc2-d-JM"
+ "playlistId": "PLZqSA5D378sG3Ne13meXBBMf-Oc2-d-JM"
  },
  "url": "https://www.youtube.com/playlist"
  },
  {
  "title": "シンフォニック・バンド",
  "params": {
- "list": "PLSEOQUWTTYgvN6ILJZ0-0jqi7JrSFtfZj"
+ "playlistId": "PLSEOQUWTTYgvN6ILJZ0-0jqi7JrSFtfZj"
  },
  "url": "https://www.youtube.com/playlist"
  },
  {
  "title": "主題歌",
  "params": {
- "list": "PL7E0ug17HSpC5CqH-388hQ0hR0xZgMJrg"
+ "playlistId": "PL7E0ug17HSpC5CqH-388hQ0hR0xZgMJrg"
  },
  "url": "https://www.youtube.com/playlist"
  },
  {
  "title": "アニメソング",
  "params": {
- "list": "PLH7S9FSz-l9xUKs6DFrEOw7qZsIYpzO4B"
+ "playlistId": "PLH7S9FSz-l9xUKs6DFrEOw7qZsIYpzO4B"
  },
  "url": "https://www.youtube.com/playlist"
  }
