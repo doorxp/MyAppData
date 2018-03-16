@@ -5,7 +5,9 @@
  "playlistId": "PLDcnymzs18LWuweNLxL4syvUtPx7Jz12y"
  },
  "url": "https://www.youtube.com/playlist",
- "active": true
+ "active": true,
+ "color":[255,0,255],
+ "size":100
  },
  {
  "title": "ヒップホップ",
