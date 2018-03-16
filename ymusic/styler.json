@@ -6,7 +6,8 @@
  },
  "url": "https://www.youtube.com/playlist",
  "active": true,
- "color":[255,0,255],
+ "img":"pop_Lsize_1_0@3x.png",
+ "activeimg":"pop_Lsize_1_1@3x.png",
  "size":100
  },
  {
