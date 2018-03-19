@@ -8,8 +8,8 @@
  "active": true,
  "img":"pop_Lsize_1_0@3x.png",
  "activeimg":"pop_Lsize_1_1@3x.png",
- "size":115
-"x":21,
+ "size":115,
+ "x":21,
  "y":16
  },
  {
@@ -34,7 +34,7 @@
  "active": true,
  "img":"pop_Lsize_3_0@3x.png",
  "activeimg":"pop_Lsize_3_1@3x.png",
- "size":115
+ "size":115,
  "x":125,
  "y":273
  },
@@ -47,7 +47,7 @@
  "active": true,
  "img":"pop_Lsize_4_0@3x.png",
  "activeimg":"pop_Lsize_4_1@3x.png",
- "size":115
+ "size":115,
  "x":602,
  "y":10
  },
@@ -60,7 +60,7 @@
  "active": true,
  "img":"pop_Lsize_5_0@3x.png",
  "activeimg":"pop_Lsize_5_1@3x.png",
- "size":115
+ "size":115,
  "x":614,
  "y":266
  },
@@ -73,7 +73,7 @@
  "active": true,
  "img":"pop_Lsize_6_0@3x.png",
  "activeimg":"pop_Lsize_6_1@3x.png",
- "size":115
+ "size":115,
  "x":387,
  "y":246
  },
@@ -86,7 +86,7 @@
  "active": true,
  "img":"pop_Msize_1_0@3x.png",
  "activeimg":"pop_Msize_1_1@3x.png",
- "size":90
+ "size":90,
  "x":150,
  "y":12
  },
@@ -99,7 +99,7 @@
  "active": true,
  "img":"pop_Msize_2_0@3x.png",
  "activeimg":"pop_Msize_2_1@3x.png",
- "size":90
+ "size":90,
  "x":46,
  "y":168
  },
@@ -112,7 +112,7 @@
  "active": true,
  "img":"pop_Msize_3_0@3x.png",
  "activeimg":"pop_Msize_3_1@3x.png",
- "size":90
+ "size":90,
  "x":218,
  "y":197
  },
@@ -125,7 +125,7 @@
  "active": true,
  "img":"pop_Msize_4_0@3x.png",
  "activeimg":"pop_Msize_4_1@3x.png",
- "size":90
+ "size":90,
  "x":283,
  "y":298
  },
@@ -138,7 +138,7 @@
  "active": true,
  "img":"pop_Msize_5_0@3x.png",
  "activeimg":"pop_Msize_5_1@3x.png",
- "size":90
+ "size":90,
  "x":422,
  "y":10
  },
@@ -151,7 +151,7 @@
  "active": true,
  "img":"pop_Msize_6_0@3x.png",
  "activeimg":"pop_Msize_6_1@3x.png",
- "size":90
+ "size":90,
  "x":399,
  "y":117
  },
@@ -164,7 +164,7 @@
  "active": true,
  "img":"pop_Msize_7_0@3x.png",
  "activeimg":"pop_Msize_7_1@3x.png",
- "size":90
+ "size":90,
  "x":614,
  "y":147
  },
@@ -177,7 +177,7 @@
  "active": true,
  "img":"pop_Msize_8_0@3x.png",
  "activeimg":"pop_Msize_8_1@3x.png",
- "size":90
+ "size":90,
  "x":512,
  "y":300
  },
@@ -190,7 +190,7 @@
  "active": true,
  "img":"pop_Ssize_1_0@3x.png",
  "activeimg":"pop_Ssize_1_1@3x.png",
- "size":80
+ "size":80,
  },
  {
  "title": "J ポップ ",
@@ -198,7 +198,7 @@
  "active": true,
  "img":"pop_Ssize_2_0@3x.png",
  "activeimg":"pop_Ssize_2_1@3x.png",
- "size":80
+ "size":80,
  "x":30,
  "y":288
  },
@@ -211,7 +211,7 @@
  "active": true,
  "img":"pop_Ssize_3_0@3x.png",
  "activeimg":"pop_Ssize_3_1@3x.png",
- "size":80
+ "size":80,
  "x":323,
  "y":176
  },
@@ -224,7 +224,7 @@
  "active": true,
  "img":"pop_Ssize_4_0@3x.png",
  "activeimg":"pop_Ssize_4_1@3x.png",
- "size":80
+ "size":80,
  "x":502,
  "y":193
  },
@@ -237,7 +237,7 @@
  "active": true,
  "img":"pop_Ssize_5_0@3x.png",
  "activeimg":"pop_Ssize_5_1@3x.png",
- "size":80
+ "size":80,
  "x":522,
  "y":91
  },
