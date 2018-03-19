@@ -9,6 +9,8 @@
  "img":"pop_Lsize_1_0@3x.png",
  "activeimg":"pop_Lsize_1_1@3x.png",
  "size":115
+"x":21,
+ "y":16
  },
  {
  "title": "ヒップホップ",
@@ -19,7 +21,9 @@
  "active": true,
  "img":"pop_Lsize_2_0@3x.png",
  "activeimg":"pop_Lsize_2_1@3x.png",
- "size":115    
+ "size":115,
+ "x":268,
+ "y":33
  },
  {
  "title": "オルタナティブ·ロック",
@@ -31,6 +35,8 @@
  "img":"pop_Lsize_3_0@3x.png",
  "activeimg":"pop_Lsize_3_1@3x.png",
  "size":115
+ "x":125,
+ "y":273
  },
  {
  "title": "ヘビーメタル",
@@ -42,6 +48,8 @@
  "img":"pop_Lsize_4_0@3x.png",
  "activeimg":"pop_Lsize_4_1@3x.png",
  "size":115
+ "x":602,
+ "y":10
  },
  {
  "title": "ロック",
@@ -53,6 +61,8 @@
  "img":"pop_Lsize_5_0@3x.png",
  "activeimg":"pop_Lsize_5_1@3x.png",
  "size":115
+ "x":614,
+ "y":266
  },
  {
  "title": "K ポップ",
@@ -64,6 +74,8 @@
  "img":"pop_Lsize_6_0@3x.png",
  "activeimg":"pop_Lsize_6_1@3x.png",
  "size":115
+ "x":387,
+ "y":246
  },
  {
  "title": "電子音楽",
@@ -75,6 +87,8 @@
  "img":"pop_Msize_1_0@3x.png",
  "activeimg":"pop_Msize_1_1@3x.png",
  "size":90
+ "x":150,
+ "y":12
  },
  {
  "title": "レゲエ",
@@ -86,6 +100,8 @@
  "img":"pop_Msize_2_0@3x.png",
  "activeimg":"pop_Msize_2_1@3x.png",
  "size":90
+ "x":46,
+ "y":168
  },
  {
  "title": "ハウス ミュージック",
@@ -97,6 +113,8 @@
  "img":"pop_Msize_3_0@3x.png",
  "activeimg":"pop_Msize_3_1@3x.png",
  "size":90
+ "x":218,
+ "y":197
  },
  {
  "title": "ラテンアメリカ音楽",
@@ -108,6 +126,8 @@
  "img":"pop_Msize_4_0@3x.png",
  "activeimg":"pop_Msize_4_1@3x.png",
  "size":90
+ "x":283,
+ "y":298
  },
  {
  "title": "ジャズ",
@@ -119,6 +139,8 @@
  "img":"pop_Msize_5_0@3x.png",
  "activeimg":"pop_Msize_5_1@3x.png",
  "size":90
+ "x":422,
+ "y":10
  },
  {
  "title": "EDM",
@@ -130,6 +152,8 @@
  "img":"pop_Msize_6_0@3x.png",
  "activeimg":"pop_Msize_6_1@3x.png",
  "size":90
+ "x":399,
+ "y":117
  },
  {
  "title": "クラシック",
@@ -141,6 +165,8 @@
  "img":"pop_Msize_7_0@3x.png",
  "activeimg":"pop_Msize_7_1@3x.png",
  "size":90
+ "x":614,
+ "y":147
  },
  {
  "title": "ソウル ミュージック",
@@ -152,6 +178,8 @@
  "img":"pop_Msize_8_0@3x.png",
  "activeimg":"pop_Msize_8_1@3x.png",
  "size":90
+ "x":512,
+ "y":300
  },
  {
  "title": "ポップロック",
@@ -171,6 +199,8 @@
  "img":"pop_Ssize_2_0@3x.png",
  "activeimg":"pop_Ssize_2_1@3x.png",
  "size":80
+ "x":30,
+ "y":288
  },
  {
  "title": "Rhythm & Blues",
@@ -182,6 +212,8 @@
  "img":"pop_Ssize_3_0@3x.png",
  "activeimg":"pop_Ssize_3_1@3x.png",
  "size":80
+ "x":323,
+ "y":176
  },
  {
  "title": "VOCALOID",
@@ -193,6 +225,8 @@
  "img":"pop_Ssize_4_0@3x.png",
  "activeimg":"pop_Ssize_4_1@3x.png",
  "size":80
+ "x":502,
+ "y":193
  },
  {
  "title": "アジア音楽",
@@ -204,6 +238,8 @@
  "img":"pop_Ssize_5_0@3x.png",
  "activeimg":"pop_Ssize_5_1@3x.png",
  "size":80
+ "x":522,
+ "y":91
  },
  {
  "title": "パンクロック",
