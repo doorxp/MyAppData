@@ -5,7 +5,7 @@
  "playlistId": "PLDcnymzs18LWuweNLxL4syvUtPx7Jz12y"
  },
  "url": "https://www.youtube.com/playlist",
- "active": true,
+ "active":true,
  "img":"pop_Lsize_1_0@3x.png",
  "activeimg":"pop_Lsize_1_1@3x.png",
  "size":115,
@@ -17,8 +17,8 @@
  "params": {
  "playlistId": "PLH6pfBXQXHEAOZJoXj1ATmPluDE2Zow0t"
  },
- "url": "https://www.youtube.com/playlist"
- "active": true,
+ "url": "https://www.youtube.com/playlist",
+ "active":true,
  "img":"pop_Lsize_2_0@3x.png",
  "activeimg":"pop_Lsize_2_1@3x.png",
  "size":115,
@@ -30,8 +30,8 @@
  "params": {
  "playlistId": "PL47oRh0-pTouthHPv6AbALWPvPJHlKiF7"
  },
- "url": "https://www.youtube.com/playlist"
- "active": true,
+ "url": "https://www.youtube.com/playlist",
+ "active":true,
  "img":"pop_Lsize_3_0@3x.png",
  "activeimg":"pop_Lsize_3_1@3x.png",
  "size":115,
@@ -43,8 +43,8 @@
  "params": {
  "playlistId": "PLfY-m4YMsF-NiDvD_lA8-2VjEqDT9pbuO"
  },
- "url": "https://www.youtube.com/playlist"
- "active": true,
+ "url": "https://www.youtube.com/playlist",
+ "active":true,
  "img":"pop_Lsize_4_0@3x.png",
  "activeimg":"pop_Lsize_4_1@3x.png",
  "size":115,
@@ -56,8 +56,8 @@
  "params": {
  "playlistId": "PLhd1HyMTk3f7QyETZvnIJmrysTJ7GueuY"
  },
- "url": "https://www.youtube.com/playlist"
- "active": true,
+ "url": "https://www.youtube.com/playlist",
+ "active":true,
  "img":"pop_Lsize_5_0@3x.png",
  "activeimg":"pop_Lsize_5_1@3x.png",
  "size":115,
@@ -69,8 +69,8 @@
  "params": {
  "playlistId": "PLTDluH66q5mpm-Bsq3GlwjMOHITt2bwXE"
  },
- "url": "https://www.youtube.com/playlist"
- "active": true,
+ "url": "https://www.youtube.com/playlist",
+ "active":true,
  "img":"pop_Lsize_6_0@3x.png",
  "activeimg":"pop_Lsize_6_1@3x.png",
  "size":115,
@@ -82,8 +82,8 @@
  "params": {
  "playlistId": "PLFPg_IUxqnZNbgDZ2QFBp3Z5GL-h-lxk8"
  },
- "url": "https://www.youtube.com/playlist"
- "active": true,
+ "url": "https://www.youtube.com/playlist",
+ "active":true,
  "img":"pop_Msize_1_0@3x.png",
  "activeimg":"pop_Msize_1_1@3x.png",
  "size":90,
@@ -95,8 +95,8 @@
  "params": {
  "playlistId": "PLYAYp5OI4lRIeUUrKnP7v9yjLtSMv4iRc"
  },
- "url": "https://www.youtube.com/playlist"
- "active": true,
+ "url": "https://www.youtube.com/playlist",
+ "active":true,
  "img":"pop_Msize_2_0@3x.png",
  "activeimg":"pop_Msize_2_1@3x.png",
  "size":90,
@@ -108,8 +108,8 @@
  "params": {
  "playlistId": "PLhInz4M-OzRUsuBj8wF6383E7zm2dJfqZ"
  },
- "url": "https://www.youtube.com/playlist"
- "active": true,
+ "url": "https://www.youtube.com/playlist",
+ "active":true,
  "img":"pop_Msize_3_0@3x.png",
  "activeimg":"pop_Msize_3_1@3x.png",
  "size":90,
@@ -121,8 +121,8 @@
  "params": {
  "playlistId": "PLcfQmtiAG0X_3a1RP-bcjWImDwdYaOW4b"
  },
- "url": "https://www.youtube.com/playlist"
- "active": true,
+ "url": "https://www.youtube.com/playlist",
+ "active":true,
  "img":"pop_Msize_4_0@3x.png",
  "activeimg":"pop_Msize_4_1@3x.png",
  "size":90,
@@ -134,8 +134,8 @@
  "params": {
  "playlistId": "PLMcThd22goGYit-NKu2O8b4YMtwSTK9b9"
  },
- "url": "https://www.youtube.com/playlist"
- "active": true,
+ "url": "https://www.youtube.com/playlist",
+ "active":true,
  "img":"pop_Msize_5_0@3x.png",
  "activeimg":"pop_Msize_5_1@3x.png",
  "size":90,
@@ -147,8 +147,8 @@
  "params": {
  "playlistId": "PLUg_BxrbJNY5gHrKsCsyon6vgJhxs72AH"
  },
- "url": "https://www.youtube.com/playlist"
- "active": true,
+ "url": "https://www.youtube.com/playlist",
+ "active":true,
  "img":"pop_Msize_6_0@3x.png",
  "activeimg":"pop_Msize_6_1@3x.png",
  "size":90,
@@ -160,8 +160,8 @@
  "params": {
  "playlistId": "PLVXq77mXV53_lNck4gPkbBbwEv0CL6hCN"
  },
- "url": "https://www.youtube.com/playlist"
- "active": true,
+ "url": "https://www.youtube.com/playlist",
+ "active":true,
  "img":"pop_Msize_7_0@3x.png",
  "activeimg":"pop_Msize_7_1@3x.png",
  "size":90,
@@ -173,8 +173,8 @@
  "params": {
  "playlistId": "PLQog_FHUHAFW0mG_Jy4hIIZGx-tc7SwLq"
  },
- "url": "https://www.youtube.com/playlist"
- "active": true,
+ "url": "https://www.youtube.com/playlist",
+ "active":true,
  "img":"pop_Msize_8_0@3x.png",
  "activeimg":"pop_Msize_8_1@3x.png",
  "size":90,
@@ -186,29 +186,31 @@
  "params": {
  "playlistId": "PLr8RdoI29cXIlkmTAQDgOuwBhDh3yJDBQ"
  },
- "url": "https://www.youtube.com/playlist"
- "active": true,
+ "url": "https://www.youtube.com/playlist",
+ "active":true,
  "img":"pop_Ssize_1_0@3x.png",
  "activeimg":"pop_Ssize_1_1@3x.png",
  "size":80,
+ "x":30,
+ "y":288
  },
  {
  "title": "J ポップ ",
- "url": "https://www.youtube.com/channel/UCWXsUjtAGn-x_tM5L1Xk2xw"
- "active": true,
+ "url": "https://www.youtube.com/channel/UCWXsUjtAGn-x_tM5L1Xk2xw",
+ "active":true,
  "img":"pop_Ssize_2_0@3x.png",
  "activeimg":"pop_Ssize_2_1@3x.png",
  "size":80,
- "x":30,
- "y":288
+ "x":153,
+ "y":125
  },
  {
  "title": "Rhythm & Blues",
  "params": {
  "playlistId": "PLWNXn_iQ2yrINTxUxfcqnKv6Ios5XByKj"
  },
- "url": "https://www.youtube.com/playlist"
- "active": true,
+ "url": "https://www.youtube.com/playlist",
+ "active":true,
  "img":"pop_Ssize_3_0@3x.png",
  "activeimg":"pop_Ssize_3_1@3x.png",
  "size":80,
@@ -220,8 +222,8 @@
  "params": {
  "playlistId": "PL6ahIEq1lB3Bx7usaB8pxnpsRQtccJ72I"
  },
- "url": "https://www.youtube.com/playlist"
- "active": true,
+ "url": "https://www.youtube.com/playlist",
+ "active":true,
  "img":"pop_Ssize_4_0@3x.png",
  "activeimg":"pop_Ssize_4_1@3x.png",
  "size":80,
@@ -233,8 +235,8 @@
  "params": {
  "playlistId": "PL0zQrw6ZA60ZgzlsoU49Z6EFJcgnd-RBr"
  },
- "url": "https://www.youtube.com/playlist"
- "active": true,
+ "url": "https://www.youtube.com/playlist",
+ "active":true,
  "img":"pop_Ssize_5_0@3x.png",
  "activeimg":"pop_Ssize_5_1@3x.png",
  "size":80,
