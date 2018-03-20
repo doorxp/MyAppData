@@ -146,7 +146,7 @@
  {
  "title": "クラシック",
  "params": {
- "playlistId": "PLVXq77mXV53_lNck4gPkbBbwEv0CL6hCN"
+ "playlistId": "PLVXq77mXV53-Np39jM456si2PeTrEm9Mj"
  },
  "url": "https://www.youtube.com/playlist",
  "img":"pop_Msize_7_0@3x.png",
@@ -173,7 +173,6 @@
  "playlistId": "PLr8RdoI29cXIlkmTAQDgOuwBhDh3yJDBQ"
  },
  "url": "https://www.youtube.com/playlist",
- 
  "img":"pop_Ssize_1_0@3x.png",
  "activeimg":"pop_Ssize_1_1@3x.png",
  "size":80,
@@ -182,7 +181,10 @@
  },
  {
  "title": "J ポップ ",
- "url": "https://www.youtube.com/channel/UCWXsUjtAGn-x_tM5L1Xk2xw",
+ "params": {
+ "playlistId": "PLkXJ6qy8CwfiHRL6_skvLuDbajF6KAgcu"
+ },
+ "url": "https://www.youtube.com/playlist",
  "img":"pop_Ssize_2_0@3x.png",
  "activeimg":"pop_Ssize_2_1@3x.png",
  "size":80,
@@ -204,7 +206,7 @@
  {
  "title": "VOCALOID",
  "params": {
- "playlistId": "PL6ahIEq1lB3Bx7usaB8pxnpsRQtccJ72I"
+ "playlistId": "PL6ahIEq1lB3Clyq8gHcByLm4YmycrU6wb"
  },
  "url": "https://www.youtube.com/playlist",
  "img":"pop_Ssize_4_0@3x.png",
