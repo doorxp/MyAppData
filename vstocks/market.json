@@ -43,6 +43,46 @@
 			"color": [128, 181, 37],
 			"title3": "取引手数料（現物取引）",
 			"detail2": "無料"
+		},{
+			"title0": "ビットフライヤー",
+			"title1": "",
+			"rate": 0.95,
+			"title2": "Coin Checkのここがオススメ",
+			"icon": "GMO.html",
+			"key":"bitflyer",
+			"detailurl":"gmo_b_pic.png",
+			"detail1": ["日本のビットコイン取引量を誇る国内最大規模の仮想通貨取引所", "チャットや取引画面が見やすくて初心者にもオススメ"],
+			"procedure": [{
+				"title": "ステップ１",
+				"message": "メールアドレスを入力して登録リンクを\n受け取り、登録を進めて下さい",
+				"image": "bitflyer_01.png"
+			}, {
+				"title": "ステップ２",
+				"message": "記載事項をきっちり確認してから\nチェックを付けて下さい",
+				"image": "bitflyer_02.png"
+			},{
+				"title": "ステップ３",
+				"message": "口座の開設をする為に、個人情報の入力を\nして下さい",
+				"image": "bitflyer_03.png"
+			},{
+				"title": "ステップ４",
+				"message": "指示に従って、本人確認書類の提出を\nして下さい",
+				"image": "bitflyer_04.png"
+			},{
+				"title": "ステップ５",
+				"message": "取引目的等のご確認と携帯電話認証も\n進めて下さい",
+				"image": "bitflyer_05.png"
+			},{
+				"title": "ステップ６",
+				"message": "アップロードされた全ての内容の確認が完了\nすれば確認コードが記された郵便物が届きます",
+				"image": "bitflyer_06.png"
+			}],
+			"url": "無料で口座を開設",
+            "url1": "開設する",
+            "url2": "開設する",
+			"color": [128, 181, 37],
+			"title3": "取引手数料（現物取引）",
+			"detail2": "無料"
 		}
 	]
 }
