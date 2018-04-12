@@ -83,7 +83,8 @@
 			"color": [128, 181, 37],
 			"title3": "取引手数料（現物取引）",
 			"detail2": "無料"
-		},{
+		},
+             //{
 			"title0": "DMM Bitcoin",
 			"title1": "",
 			"rate": 0.9,
